@@ -1,6 +1,6 @@
 1 → 克隆仓库到本地
 ```
-git clone https://github.com/ninghao/ninghao-webpack.git
+git clone https://github.com/zev739655642/zev-react.git
 ```
 2 → 安装项目需要的东西
 ```
