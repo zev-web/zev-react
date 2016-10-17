@@ -1,6 +1,6 @@
 1 → 克隆仓库到本地
 ```
-git clone https://github.com/zev739655642/zev-react.git
+git clone https://github.com/zev-web/zev-react.git
 ```
 2 → 安装项目需要的东西
 ```
